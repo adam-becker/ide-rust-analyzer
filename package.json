@@ -1,7 +1,7 @@
 {
   "name": "ide-rust-analyzer",
   "main": "./lib/main",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Rust language support for Atome-IDE, provided by rust-analyzer.",
   "repository": "https://github.com/adam-becker/ide-rust-analyzer",
   "license": "MIT",
